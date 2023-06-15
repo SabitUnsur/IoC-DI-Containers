@@ -1,0 +1,8 @@
+C:\Users\sabit\source\repos\IoC\IoC\bin\Debug\IoC.exe.config
+C:\Users\sabit\source\repos\IoC\IoC\bin\Debug\IoC.exe
+C:\Users\sabit\source\repos\IoC\IoC\bin\Debug\IoC.pdb
+C:\Users\sabit\source\repos\IoC\IoC\obj\Debug\IoC.csproj.AssemblyReference.cache
+C:\Users\sabit\source\repos\IoC\IoC\obj\Debug\IoC.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabit\source\repos\IoC\IoC\obj\Debug\IoC.csproj.CoreCompileInputs.cache
+C:\Users\sabit\source\repos\IoC\IoC\obj\Debug\IoC.exe
+C:\Users\sabit\source\repos\IoC\IoC\obj\Debug\IoC.pdb
